@@ -474,7 +474,17 @@ header ul a:hover{
     cursor: pointer;
     transition: 0.3s;
 }
-
+.project-info .project-btn{
+    color: white;
+    padding: 15px 35px;
+    border-radius: 10px;
+    border: 1px solid #b572de81;
+    background-color: #3100493d;
+    box-shadow: 0 0 5px #ba72de81;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: none;
+}
 .project-info button:hover{
     opacity: 0.8;
     box-shadow: 0 0 15px #c572de81;
@@ -648,11 +658,11 @@ header ul a:hover{
 
   /* CONTACT SECTION */
 .contact-section{
-    width: 80%;
+    width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
-    gap: 10%;
+    gap: 8%;
     align-items: center;
     position: relative;
 }
