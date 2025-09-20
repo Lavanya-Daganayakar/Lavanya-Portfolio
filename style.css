@@ -529,6 +529,41 @@ header ul a:hover{
   }
 }
 
+.certificates-section {
+    padding: 50px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    margin: 50px 0;
+}
+
+.certificate-card {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.certificate-card h2 {
+    color: #ad60d0;
+}
+
+.certificate-card .project-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #ad60d0;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.certificate-card .project-btn:hover {
+    background: #8b46b5;
+}
 
 
 

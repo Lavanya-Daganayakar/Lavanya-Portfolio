@@ -19,3 +19,15 @@
 <a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
   <img src="youtube.png" alt="youtube"/>
 </a>
+
+## to upadate the Project
+>> git add .                                                                       
+>> git commit -m "Updated portfolio"
+>> git push
+
+<git init
+git remote add origin https://github.com/Lavanya-Daganayakar/Lavanya-Portfolio.git
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main>
